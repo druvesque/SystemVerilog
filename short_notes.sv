@@ -66,3 +66,8 @@
 //
 // ---> String Operations: {str1, str2} (concatenation), {N{str}} (replication),
 //                         [index], ==, !=, >, <, >=, <= 
+//
+// ---> String Methods: len(), putc(), getc(), toupper(), tolower(), compare(),
+//                      icompare(), substr(), atobin(), atooct(), atohex(),
+//                      atoi(), atoreal(), realtoa(), bintoa(), octtoa(),
+//                      itoa(), hextoa()

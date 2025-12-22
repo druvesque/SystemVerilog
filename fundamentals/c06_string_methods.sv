@@ -1,5 +1,5 @@
 module string_methods;
-    string s;
+    string s, a;
     initial begin
         s = "SystemVerilog";
         $display("%c", s.getc(0));
