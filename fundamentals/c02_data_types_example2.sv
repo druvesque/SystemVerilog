@@ -67,5 +67,10 @@ module example2;
             $display("Either aa ==? bb or aa !=? bb");
         else
             $display("In this case, the ==? or !=? operator is indeterminate!");
+
+        x = 1; y = 0;
+        $display("\nNew, x: %0d, y: %0d", x, y);
+        y = x++ + x++;
+        $display("y = x++ + x++, x: %0d, y: %0d", x, y);
     end
 endmodule
