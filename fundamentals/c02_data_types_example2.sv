@@ -53,6 +53,8 @@ module example2;
         aa = 4'b010z; bb = 4'b0101;
         $display("\nNew, aa: %b, bb: %b", aa, bb);
 
+        $display("aa ==? bb: %0b", (aa ==? bb));
+
         if (aa ==? bb)
             $display("aa ==? bb, true");
         else 
