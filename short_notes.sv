@@ -93,4 +93,13 @@
 //      7. When indexing mixed arrays, unpacked dimensions are referenced
 //         first from left to right. Then packed dimensions are referenced
 //         from left to right.
+//
+// ---> Array Tasks: $dimensions, $unpacked_dimensions, $left(word, 1),
+//                   $right(word, 2), $low(word, 3), $high(word, 4)
+//                   $size (i.e $high - $low + 1), $bits, $increment
+//
+// ---> Types of Arrays
+//      1. Dynamic Arrays
+//      2. Queues
+//      3. Sparse / Associative Arrays
 //      

@@ -12,13 +12,13 @@ module example16;
         dyna = new[5];
         foreach(dyna[j])
             dyna[j] = j;
-        d2 = dyna;
+        d2 = dyna; // first create d2 and then copy dyna to d2
         d2[0] = 5;
         $display("dyna[0]: %0d, d2[0]: %0d", dyna[0], d2[0]);
         $display("dyna: %p, d2: %p", dyna, d2);
-        dyna = new[20](dyna);
+        dyna = new[20](dyna); // in place copy
         $display("dyna: %p", dyna);
-        dyna = new[100];
+        dyna = new[10]; // delete all the previous data
         $display("dyna: %p", dyna);
         dyna.delete();
     end
