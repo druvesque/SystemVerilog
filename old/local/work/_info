@@ -1,0 +1,41 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/dhruv/druvesque/git_src/practice/sv_practice/old/local
+T_opt
+!s110 1778736412
+VoNRQSk5B63o:h_I;DH[cZ0
+04 2 4 work tb fast 0
+=1-e070eaa99333-6a055d1b-2a2-1bf20
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4e;61
+vtb
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1778736405
+!i10b 1
+!s100 ABJ>07eWON]<1MHKKnl7h3
+IMkPVzS?V<964I3^a_B_2C3
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 strength_test_sv_unit
+S1
+R0
+w1778736400
+8../strength_test.sv
+F../strength_test.sv
+L0 3
+OL;L;10.4e;61
+r1
+!s85 0
+31
+!s108 1778736405.000000
+!s107 ../strength_test.sv|
+!s90 ../strength_test.sv|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact

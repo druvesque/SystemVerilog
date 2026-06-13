@@ -1,0 +1,55 @@
+# vsim work.Custom_clock_tb -c 
+# Start time: 15:39:40 on May 24,2026
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# //  Questa Sim-64
+# //  Version 10.4e win64 Apr  9 2016
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# Loading sv_std.std
+# Loading work.Custom_clock_tb(fast)
+# time=                   0,duty_cycle =  20,clock=1
+# time=                  20,duty_cycle =  20,clock=0
+# time=                 100,duty_cycle =  20,clock=1
+# time=                 120,duty_cycle =  20,clock=0
+# time=                 200,duty_cycle =  20,clock=1
+# time=                 220,duty_cycle =  20,clock=0
+# time=                 300,duty_cycle =  20,clock=1
+# time=                 320,duty_cycle =  20,clock=0
+# time=                 400,duty_cycle =  20,clock=1
+# time=                 420,duty_cycle =  20,clock=0
+# time=                 500,duty_cycle =  70,clock=1
+# time=                 570,duty_cycle =  70,clock=0
+# time=                 600,duty_cycle =  70,clock=1
+# time=                 670,duty_cycle =  70,clock=0
+# time=                 700,duty_cycle =  70,clock=1
+# time=                 770,duty_cycle =  70,clock=0
+# time=                 800,duty_cycle =  70,clock=1
+# time=                 870,duty_cycle =  70,clock=0
+# time=                 900,duty_cycle =  70,clock=1
+# time=                 970,duty_cycle =  70,clock=0
+# time=                1000,duty_cycle =  50,clock=1
+# time=                1050,duty_cycle =  50,clock=0
+# time=                1100,duty_cycle =  50,clock=1
+# time=                1150,duty_cycle =  50,clock=0
+# time=                1200,duty_cycle =  50,clock=1
+# time=                1250,duty_cycle =  50,clock=0
+# time=                1300,duty_cycle =  50,clock=1
+# time=                1350,duty_cycle =  50,clock=0
+# time=                1400,duty_cycle =  50,clock=1
+# time=                1450,duty_cycle =  50,clock=0
+# ** Note: $finish    : question.sv(41)
+#    Time: 1500 ns  Iteration: 0  Instance: /Custom_clock_tb
+# End time: 15:39:46 on May 24,2026, Elapsed time: 0:00:06
+# Errors: 0, Warnings: 0

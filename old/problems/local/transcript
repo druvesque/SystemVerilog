@@ -1,0 +1,27 @@
+# vsim work.union_tb -c 
+# Start time: 12:52:17 on Feb 14,2026
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# //  Questa Sim-64
+# //  Version 10.4e win64 Apr  9 2016
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# Loading sv_std.std
+# Loading work.union_tb(fast)
+# ** Fatal: (vsim-3981) ../union.sv(3): Packed union fields must all be the same width.
+#    Time: 0 ns  Iteration: 0  Instance: /union_tb File: ../union.sv
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 12:52:19 on Feb 14,2026, Elapsed time: 0:00:02
+# Errors: 1, Warnings: 0
